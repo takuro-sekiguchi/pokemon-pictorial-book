@@ -1,0 +1,19 @@
+.card {
+  width: 90%;
+  max-width: 300px;
+  box-shadow: 15px 24px 35px -24px #777777;
+  border-radius: 10px;
+  border: 1px solid #efefef;
+  background-color: white;
+}
+
+.cardName{
+  font-size: 24px;
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.cardInfo {
+  text-align: center;
+}

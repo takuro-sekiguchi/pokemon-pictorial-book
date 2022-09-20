@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project/pokemon-zukan/index.html/static/css/main.22e3bd33.css",
+    "main.js": "/project/pokemon-zukan/index.html/static/js/main.87fb3909.js",
+    "index.html": "/project/pokemon-zukan/index.html/index.html",
+    "main.22e3bd33.css.map": "/project/pokemon-zukan/index.html/static/css/main.22e3bd33.css.map",
+    "main.87fb3909.js.map": "/project/pokemon-zukan/index.html/static/js/main.87fb3909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22e3bd33.css",
+    "static/js/main.87fb3909.js"
+  ]
+}
